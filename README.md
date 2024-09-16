@@ -35,3 +35,8 @@ The traffic control decisions made by the AI system are put into action immediat
 After implementing the traffic control actions, the system continues to learn and adapt. The AI reviews the outcomes of its decisions to understand their impact on traffic flow. Over time, the system uses this feedback to refine its algorithms and improve decision-making accuracy. Continuous learning helps the system become more effective at managing traffic and addressing congestion as it evolves.
 
 ![image](https://github.com/user-attachments/assets/afee7820-1f45-4fb1-9e53-c2c169d8328a)
+
+# Tech Stack
+
+<b2> 1. Frameworks :</b2>
+Machine Learning Frameworks:
