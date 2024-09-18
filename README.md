@@ -10,6 +10,8 @@ Category	- Software
 
 Theme	- Smart Automation
 
+Team Leader Name - Aditya Pawar
+
 #  Approach :
 This includes detailed steps which will be used in the smart AI system.(It do not include actual algorithms and technique which we are going to use in the system to protect our idea from disclosure)
 1. Collection of Real-Time Traffic Data :
@@ -104,3 +106,15 @@ Traffic Signal Controllers are devices that manage the operation of traffic ligh
 The traffic signal controllers receive commands from the Raspberry Pi (or another central unit) about how to adjust the traffic lights. This could involve changing the lights from red to green, adjusting the timing of each light, or coordinating signals between multiple intersections.
 - Signal adjustment:
 The controllers directly influence the physical traffic lights. They translate the commands from the Raspberry Pi into actions that control the lights, ensuring that the traffic signals operate according to the decisions made by the traffic management system.
+
+Basic Workflow of System :
+1. Collection of real-time trffic data
+2. AI-Powered cameras and sensors for Traffic Analysis
+3. Real-Time traffic density and pattern analysis
+4. Input to the Smart AI System
+5. Dynamic decision-making by AI for traffic control
+6. Real-time action implementation
+7. Continuous learning and system optimization
+8. End the current phase
+9. Save the data in servers
+10. Repeat it again
