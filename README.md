@@ -107,7 +107,8 @@ The traffic signal controllers receive commands from the Raspberry Pi (or anothe
 - Signal adjustment:
 The controllers directly influence the physical traffic lights. They translate the commands from the Raspberry Pi into actions that control the lights, ensuring that the traffic signals operate according to the decisions made by the traffic management system.
 
-Basic Workflow of System :
+# Basic Workflow of System :
+
 1. Collection of real-time trffic data
 2. AI-Powered cameras and sensors for Traffic Analysis
 3. Real-Time traffic density and pattern analysis
@@ -117,4 +118,4 @@ Basic Workflow of System :
 7. Continuous learning and system optimization
 8. End the current phase
 9. Save the data in servers
-10. Repeat it again
+10. 10. Repeat it again
