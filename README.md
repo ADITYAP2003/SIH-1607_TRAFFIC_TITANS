@@ -118,4 +118,4 @@ The controllers directly influence the physical traffic lights. They translate t
 7. Continuous learning and system optimization
 8. End the current phase
 9. Save the data in servers
-10. 10. Repeat it again
+10. Repeat it again
