@@ -25,6 +25,10 @@ The data collected from the CCTV cameras is analyzed using advanced AI-powered c
 3. Real-Time Traffic Density and Pattern Analysis : 
 
 In this stage, the AI system examines the analyzed data to determine traffic density (how many vehicles are present) and patterns (how traffic flows at different times). The system identifies trends such as peak traffic times, congestion hotspots, and typical traffic behaviors. Understanding these patterns allows for the development of strategies to manage and alleviate traffic congestion effectively.
+
+![Screenshot (177)](https://github.com/user-attachments/assets/20939bce-5154-4795-8d49-522b4b872dfa)
+![Screenshot (186)](https://github.com/user-attachments/assets/8de0a217-9c49-4d9b-b15a-c1ab30fa032a)
+
    
 4. Input to the Smart AI System : 
 
