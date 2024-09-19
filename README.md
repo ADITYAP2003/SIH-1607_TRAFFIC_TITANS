@@ -1,4 +1,4 @@
-# SIH-1607_TRAFFIC_TITANS
+# SIH-1607_TEAM AI TRAFFIC DRIVERS
 
 Problem Statement ID	- 1607
 
@@ -119,3 +119,5 @@ The controllers directly influence the physical traffic lights. They translate t
 8. End the current phase
 9. Save the data in servers
 10. Repeat it again
+
+*All data, idea approach, solution approach is the property of TEAM AI TRAFFIC DRIVERS for information purpose to SIH it is provided. Do not use this data without any prior permission of team and team leader
