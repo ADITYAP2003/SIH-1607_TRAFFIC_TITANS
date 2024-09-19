@@ -1,6 +1,6 @@
-# SIH-1607_TEAM AI TRAFFIC DRIVERS
+# TEAM AI TRAFFIC DRIVERS
 
-Problem Statement ID	- 1607
+Problem Statement ID	- SIH1607
 
 Problem Statement Title - A smart AI based solution for traffic management on routes with heavy traffic from different directions, with real-time monitoring and adaptation of traffic light timings
 
