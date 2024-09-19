@@ -28,6 +28,7 @@ In this stage, the AI system examines the analyzed data to determine traffic den
 
 ![Screenshot (177)](https://github.com/user-attachments/assets/20939bce-5154-4795-8d49-522b4b872dfa)
 ![Screenshot (186)](https://github.com/user-attachments/assets/8de0a217-9c49-4d9b-b15a-c1ab30fa032a)
+![Screenshot (183)](https://github.com/user-attachments/assets/40551699-d41d-4f04-884d-cf868e1fe0ea)
 
    
 4. Input to the Smart AI System : 
